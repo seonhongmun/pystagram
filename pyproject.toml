@@ -13,6 +13,8 @@ ipython = "^8.24.0"
 pillow = "^10.3.0"
 requests = "^2.31.0"
 psycopg2-binary = "^2.9.10"
+django-storages = "^1.14.5"
+boto3 = "^1.36.26"
 
 
 [build-system]
